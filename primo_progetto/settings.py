@@ -39,6 +39,11 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'prima_app',
     'seconda_app',
+<<<<<<< Updated upstream
+=======
+    'news',
+    'libreria',
+>>>>>>> Stashed changes
 ]
 
 MIDDLEWARE = [
