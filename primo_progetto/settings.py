@@ -40,6 +40,11 @@ INSTALLED_APPS = [
     'prima_app',
     'seconda_app',
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+    'news',
+    'libreria',
+>>>>>>> Stashed changes
 =======
     'news',
     'libreria',
